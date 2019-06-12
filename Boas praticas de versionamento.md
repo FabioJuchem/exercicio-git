@@ -2,7 +2,7 @@
 <h1>Boas praticas de versionamento do codigo fonte</h1>
 
    	Versionamento é uma pratica adotada por empresas de desenvolvimento de software para controle 
-	e armazanamento de codigos fonte, porem este não trabalho não deve ser apenas relizado sem controle algum ou cuidados,
+	e armazanamento de codigos fonte, porem este trabalho não deve ser apenas relizado sem controle algum ou cuidados,
 	dessa forma foram adotadas formas de realização de versionamento padrões que facilitam e ajudam o desenvolvedor 
 	em seu dia a dia, abaixo listarei algumas praticas que devem ser adotadas.
 
